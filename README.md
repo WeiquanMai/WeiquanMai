@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm Weiquan Mai- welcome to my portfolio!
+
+This portfolio showcases a variety of labs and projects that I've completed during my programming courses at Bunker Hill Community College. It's a reflection of my journey, growth, and passion for coding and problem-solving. Feel free to explore!
 
 <!--
 **WeiquanMai/WeiquanMai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
